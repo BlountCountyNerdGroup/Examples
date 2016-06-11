@@ -1,2 +1,3 @@
-# Examples
-Example code for projects
+# Function Project
+
+Code for the function project
